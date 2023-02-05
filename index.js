@@ -20,7 +20,7 @@ menu.addEventListener('click', () => {
 const description = document.getElementById("description")
 const desc_main = document.getElementById("desc-main")
 
-const contents = ['front-end developer']
+const contents = ['front-end developer', 'self-taught developer']
 let i = 0
 let j = 0
 let fwd = true
